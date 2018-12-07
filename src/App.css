@@ -43,6 +43,25 @@ a:hover {
 .App-link {
   color: #61dafb;
 }
+.header {
+  background: #6da782;
+  width: 100%;
+}
+.btn {
+  color: #6da782;
+  padding: 5px 15px;
+  border: 1px solid #6da782;
+  box-shadow: 1px 1px 10px 0px black;
+  cursor: pointer;
+  margin: 10px;
+  background: black;
+}
+.btn:hover, .btn.act {
+  background: #6da782;
+  color: black;
+  border: 1px solid #000;
+  box-shadow: none;
+}
 
 @keyframes App-logo-spin {
   from {
