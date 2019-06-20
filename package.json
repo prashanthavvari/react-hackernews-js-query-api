@@ -19,6 +19,7 @@
   "engines": {
     "node": "6.12.x"
   },
+  "homepage": "http://prashanthavvari.github.io/react-hackernews-js-quer-api/",
   "browserslist": [
     ">0.2%",
     "not dead",
