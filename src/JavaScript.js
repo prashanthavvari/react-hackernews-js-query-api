@@ -4,7 +4,7 @@ class JavaScript extends Component {
   constructor() {
     super();
     this.state = {
-      api: 'http://hn.algolia.com/api/v1/search?query=javascript&tags=story',
+      api: 'https://hn.algolia.com/api/v1/search?query=javascript&tags=story',
       results: [],
       topTen: []
     }

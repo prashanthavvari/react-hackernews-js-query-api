@@ -4,7 +4,7 @@ class Python extends Component {
   constructor() {
     super();
     this.state = {
-      api: 'http://hn.algolia.com/api/v1/search?query=python&tags=story',
+      api: 'https://hn.algolia.com/api/v1/search?query=python&tags=story',
       results: [],
       topTen: []
     }
