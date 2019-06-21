@@ -71,3 +71,8 @@ a:hover {
     transform: rotate(360deg);
   }
 }
+@media screen and (max-width: 768px) {
+  .list {
+    width: 90%;
+  }
+}
